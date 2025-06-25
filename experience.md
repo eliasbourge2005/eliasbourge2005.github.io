@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /projects
-permalink: /projects/
+title: /experience
+permalink: /experience/
 ---
 
 mehcanical engneering inter
