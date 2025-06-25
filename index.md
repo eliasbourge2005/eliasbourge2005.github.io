@@ -4,6 +4,7 @@ layout: home
 permalink: /
 ---
 
-# Elias Bourgeois
+# Elias Bourgeois-computer science student
 
-welcome to my website
+welcome to my porfolio website
+I am a upcoming sophmore at Michigan State University
