@@ -1,7 +1,7 @@
+---
 layout: page
 title: /contact
 permalink: /contact/
-
 ---
 
 email: bourge25@msu.edu
